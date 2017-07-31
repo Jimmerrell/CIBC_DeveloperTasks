@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-"""Compare two aligned images of the same size.
-Usage: python compare.py first-image second-image
-"""
-
 import sys
 
 from scipy.misc import imread
